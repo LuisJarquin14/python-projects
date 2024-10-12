@@ -1,0 +1,5 @@
+# Estas son las dependencias de las aplicaciones que se necesitan para la ejecución de la aplicación de cada proyecto.
+
+cryptography==43.0.1
+pillow==10.4.0
+yt-dlp==2024.10.7

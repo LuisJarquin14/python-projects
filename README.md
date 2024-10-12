@@ -48,3 +48,22 @@ Clona el repositorio en tu máquina local usando:
 ```bash
 git clone https://github.com/LuisJarquin14/python-projects.git
 ```
+
+Crea tu propio entorno virtual en Python y instala las bibliotecas de cada proyecto en el archivo requirements.txt para asi tener los paquetes necesarios.
+
+```bash
+python -m venv venv
+```
+
+Activa tu entorno virtual y instala las bibliotecas correspondientes.
+
+```bash
+source venv/bin/activate
+```
+
+Podras ver las bibliotecas de cada proyecto en la carpeta correspondiente en su README.md e igual te dejare un requirements.txt en la raiz de python-projects para que puedas instalar las bibliotecas correspondientes.
+
+```bash
+cd python-projects
+pip install -r requirements.txt
+```

@@ -15,7 +15,7 @@ Este programa permite a los usuarios descargar videos de YouTube en alta calidad
 ## Requisitos Previos
 
 - Python 3.x instalado en tu sistema.
-- Bibliotecas Tkinter, Pytube y Webbrowser instaladas.
+- Bibliotecas Tkinter, yt-dlp y Webbrowser instaladas.
 
 ## Instalación
 
@@ -28,7 +28,7 @@ git clone https://github.com/LuisJarquin14/python-projects.git
 ## Instala las bibliotecas necesarias:
 
 ```bash
-pip install yt-dlp
+pip install yt-dlp Webbrowser
 ```
 
 ## Cómo Usar
