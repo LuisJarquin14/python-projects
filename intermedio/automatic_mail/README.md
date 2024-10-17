@@ -29,7 +29,7 @@ Esta herramienta permite enviar correos electrónicos de manera automatizada a t
 
 ## Uso
 
-1. Abre el archivo `email_sender.py` y remplaza `tu_email@gmail.com` y `tu_contrasena` con tus credenciales de Gmail.
+1. Abre el archivo `email_sender.py` y remplaza `tu_email@gmail.com` y `tu_contraseña` con tus credenciales de Gmail.
 
 - si no sabes como optener tu contraseña, puedes utilizar el siguiente enlace: https://myaccount.google.com/u/4/apppasswords?rapt=AEjHL4OKHBDK9YugcH9t6izhWE1_71rn2vmZl15RTGy7vP3H7LVNgVsKDsaexf8xviRN1dTjaL1soZyUbyPEPKTKeP2K62Ea0Auuv7nEgAewqfdDTpwcSAs
 
