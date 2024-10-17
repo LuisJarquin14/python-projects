@@ -7,13 +7,26 @@ Este proyecto es un web crawler (rastreador web) con una interfaz gráfica const
 - Python 3.6 o superior
 - PostgreSQL 12 o superior
 
-### Librerías de Python
+## Instalación
 
-Para instalar las dependencias necesarias, ejecuta:
+1. Clona este repositorio en tu máquina local:
 
-```bash
-pip install -r requirements.txt
-```
+   ```bash
+   git clone https://github.com/LuisJarquin14/python-projects.git
+   ```
+
+2. Crea tu propia entorno virtual en Python y instala las bibliotecas de cada proyecto en el archivo requirements.txt para asi tener los paquetes necesarios.
+
+   ```bash
+   python -m venv venv
+   ```
+
+3. Activa tu entorno virtual y instala las bibliotecas correspondientes.
+
+   ```bash
+   source venv/bin/activate
+   pip install -r requirements.txt
+   ```
 
 ## Lista de Dependencias
 

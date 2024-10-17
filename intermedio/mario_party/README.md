@@ -22,7 +22,7 @@ Este es un juego de Mario Party desarrollado en Python que simula el famoso jueg
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/tu_usuario/mario_party.git
+   git clone https://github.com/LuisJarquin14/python-projects.git
    ```
 
 2. Navega al directorio del proyecto:
