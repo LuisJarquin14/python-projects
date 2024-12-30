@@ -1,0 +1,3 @@
+# Bibliotecas necesarias para la ejecución del programa
+
+pygame
