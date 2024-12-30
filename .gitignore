@@ -40,3 +40,6 @@ credentials.json
 *.tmp
 *.swp
 *~
+
+# Archivo de favoritos de música
+music_favs.json
