@@ -17,6 +17,7 @@ Bienvenido a mi repositorio de proyectos en Python. Aquí encontrarás una colec
 2. **Adivina el Número**: Un juego donde el usuario tiene que adivinar un número generado por la computadora.
 3. **Simulación de Dados**: Un programa que simula el lanzamiento de dados.
 4. **Descargador de YouTube**: Una herramienta para descargar videos de YouTube.
+5. **Calculadora Matemática**: Una calculadora simple con operaciones básicas.
 
 ## Proyectos Intermedios
 
@@ -28,9 +29,8 @@ Bienvenido a mi repositorio de proyectos en Python. Aquí encontrarás una colec
 ## Proyectos Avanzados
 
 1. **Reproductor de Música**: Una aplicación para reproducir música.
-2. **Detección Facial**: Un sistema que detecta caras en imágenes o videos.
-3. **Clon de X**: Un clon de una aplicación conocida (especificar cuál).
-4. **Bot de X**: Un bot para automatizar tareas (especificar cuál).
+
+_Proyectos en desarrollo..._
 
 ## Primeros Pasos
 
@@ -67,3 +67,7 @@ Podras ver las bibliotecas de cada proyecto en la carpeta correspondiente en su 
 cd python-projects
 pip install -r requirements.txt
 ```
+
+### Licencia
+
+Este repositorio se encuentra bajo la licencia [MIT](LICENSE).
